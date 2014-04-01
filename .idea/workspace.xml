@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe66cb30-600a-4b9e-a4bc-2cf200827712" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/base/DoomGame/Door.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/models/swarm_infector/0021_swarminfector_c.tg4d.tga" afterPath="$PROJECT_DIR$/resources/models/swarm_infector/0021_swarminfector_c.tg4d.tga" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/models/swarm_infector/0023_swarminfector_n.tg4d.tga" afterPath="$PROJECT_DIR$/resources/models/swarm_infector/0023_swarminfector_n.tg4d.tga" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/models/swarm_infector/0025_swarminfector_sp.tg4d.tga" afterPath="$PROJECT_DIR$/resources/models/swarm_infector/0025_swarminfector_sp.tg4d.tga" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/bitmaps/Thumbs.db" afterPath="$PROJECT_DIR$/resources/bitmaps/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/Thumbs.db" afterPath="$PROJECT_DIR$/resources/textures/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/WolfCollection.png" afterPath="$PROJECT_DIR$/resources/textures/WolfCollection.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/WolfensteinSpriteSheet.png" afterPath="$PROJECT_DIR$/resources/textures/WolfensteinSpriteSheet.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/a-brbrk.png" afterPath="$PROJECT_DIR$/resources/textures/a-brbrk.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/a-brbrk2.png" afterPath="$PROJECT_DIR$/resources/textures/a-brbrk2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/a-brick1.png" afterPath="$PROJECT_DIR$/resources/textures/a-brick1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/a-brick3.png" afterPath="$PROJECT_DIR$/resources/textures/a-brick3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/a-brock2.png" afterPath="$PROJECT_DIR$/resources/textures/a-brock2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/a-brown4.png" afterPath="$PROJECT_DIR$/resources/textures/a-brown4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/a-dbri1.png" afterPath="$PROJECT_DIR$/resources/textures/a-dbri1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/a-dbri2.png" afterPath="$PROJECT_DIR$/resources/textures/a-dbri2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/a-mosbri.png" afterPath="$PROJECT_DIR$/resources/textures/a-mosbri.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/a-mud.png" afterPath="$PROJECT_DIR$/resources/textures/a-mud.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/a-pois.png" afterPath="$PROJECT_DIR$/resources/textures/a-pois.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/a-rail1.png" afterPath="$PROJECT_DIR$/resources/textures/a-rail1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/a-yellow.png" afterPath="$PROJECT_DIR$/resources/textures/a-yellow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/ibxm.jar" afterPath="$PROJECT_DIR$/lib/lib/ibxm.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/jogg-0.0.7.jar" afterPath="$PROJECT_DIR$/lib/lib/jogg-0.0.7.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/jorbis-0.0.15.jar" afterPath="$PROJECT_DIR$/lib/lib/jorbis-0.0.15.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/bitmaps/levelOne.png" afterPath="$PROJECT_DIR$/resources/bitmaps/levelOne.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lwjgl.dll" afterPath="$PROJECT_DIR$/lib/lwjgl.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/lwjgl.jar" afterPath="$PROJECT_DIR$/lib/lib/lwjgl.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/lwjgl_util.jar" afterPath="$PROJECT_DIR$/lib/lib/lwjgl_util.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/lwjgl_util_applet.jar" afterPath="$PROJECT_DIR$/lib/lib/lwjgl_util_applet.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/sky1.png" afterPath="$PROJECT_DIR$/resources/textures/sky1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/sky2.png" afterPath="$PROJECT_DIR$/resources/textures/sky2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/slick-util-src.zip" afterPath="$PROJECT_DIR$/lib/lib/slick-util-src.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/slick-util.jar" afterPath="$PROJECT_DIR$/lib/slick-util.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/slick-util.jar" afterPath="$PROJECT_DIR$/lib/lib/slick-util.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/slime1.png" afterPath="$PROJECT_DIR$/resources/textures/slime1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/sw1skull.png" afterPath="$PROJECT_DIR$/resources/textures/sw1skull.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/AiffData.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/AiffData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/Audio.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/Audio.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/AudioImpl.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/AudioImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/AudioInputStream.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/AudioInputStream.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/AudioLoader.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/AudioLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/DoomGame/Bitmap.java" afterPath="$PROJECT_DIR$/src/com/base/DoomGame/Bitmap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/util/BufferedImageUtil.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/util/BufferedImageUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/util/ClasspathLocation.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/util/ClasspathLocation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/Color.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/Color.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/CompositeIOException.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/CompositeIOException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/CompositeImageData.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/CompositeImageData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/CursorLoader.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/CursorLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/renderer/DefaultLineStripRenderer.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/renderer/DefaultLineStripRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/loading/DeferredResource.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/loading/DeferredResource.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/DeferredSound.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/DeferredSound.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/DeferredTexture.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/DeferredTexture.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/EmptyImageData.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/EmptyImageData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/util/FileSystemLocation.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/util/FileSystemLocation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/Font.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/Font.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/GLUtils.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/GLUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/DoomGame/Game.java" afterPath="$PROJECT_DIR$/src/com/base/DoomGame/Game.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameEngineChanges.txt" afterPath="$PROJECT_DIR$/GameEngineChanges.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/ImageData.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/ImageData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/ImageDataFactory.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/ImageDataFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/ImageIOImageData.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/ImageIOImageData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/renderer/ImmediateModeOGLRenderer.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/renderer/ImmediateModeOGLRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/InternalTextureLoader.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/InternalTextureLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/DoomGame/Level.java" afterPath="$PROJECT_DIR$/src/com/base/DoomGame/Level.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/renderer/LineStripRenderer.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/renderer/LineStripRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/LoadableImageData.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/LoadableImageData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/loading/LoadingList.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/loading/LoadingList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/util/Log.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/util/Log.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/MODSound.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/MODSound.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/MainComponent.java" afterPath="$PROJECT_DIR$/src/com/base/engine/MainComponent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/Matrix4f.java" afterPath="$PROJECT_DIR$/src/com/base/engine/Matrix4f.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/NullAudio.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/NullAudio.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/OggData.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/OggData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/OggDecoder.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/OggDecoder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/OggInputStream.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/OggInputStream.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/OpenALStreamPlayer.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/OpenALStreamPlayer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/PNGDecoder.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/PNGDecoder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/PNGImageData.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/PNGImageData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PinStripes.iml" afterPath="$PROJECT_DIR$/PinStripes.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/DoomGame/Player.java" afterPath="$PROJECT_DIR$/src/com/base/DoomGame/Player.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/renderer/QuadBasedLineStripRenderer.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/renderer/QuadBasedLineStripRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/renderer/Renderer.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/renderer/Renderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/util/ResourceLoader.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/util/ResourceLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/util/ResourceLocation.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/util/ResourceLocation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/renderer/SGL.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/renderer/SGL.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/SlickCallable.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/SlickCallable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/SlickException.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/SlickException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/SoundStore.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/SoundStore.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/StreamSound.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/StreamSound.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/TGAImageData.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/TGAImageData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/tests/TestUtils.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/tests/TestUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/Texture.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/Texture.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/TextureImpl.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/TextureImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/TextureLoader.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/TextureLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/TrueTypeFont.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/TrueTypeFont.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/renderer/VAOGLRenderer.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/opengl/renderer/VAOGLRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/Vector2f.java" afterPath="$PROJECT_DIR$/src/com/base/engine/Vector2f.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/Vector3f.java" afterPath="$PROJECT_DIR$/src/com/base/engine/Vector3f.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/WaveData.java" afterPath="$PROJECT_DIR$/lib/lib/org/newdawn/slick/openal/WaveData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/Window.java" afterPath="$PROJECT_DIR$/src/com/base/engine/Window.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/textures/WolfensteinSpriteSheet_map.txt" afterPath="$PROJECT_DIR$/resources/textures/WolfensteinSpriteSheet_map.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/shaders/basicFragment.fshader" afterPath="$PROJECT_DIR$/resources/shaders/basicFragment.fshader" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/shaders/basicVertex.vshader" afterPath="$PROJECT_DIR$/resources/shaders/basicVertex.vshader" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/shaders/phongFragment.fshader" afterPath="$PROJECT_DIR$/resources/shaders/phongFragment.fshader" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/shaders/phongVertex.vshader" afterPath="$PROJECT_DIR$/resources/shaders/phongVertex.vshader" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psAttenuation.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psAttenuation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psBaseLight.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psBaseLight.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psBasicShader.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psBasicShader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psCamera.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psCamera.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psDirectionalLight.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psDirectionalLight.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psInput.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psInput.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psMaterial.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psMaterial.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psMesh.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psMesh.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psPhongShader.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psPhongShader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psPointLight.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psPointLight.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psQuaternion.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psQuaternion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psRenderUtil.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psRenderUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psShader.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psShader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psSpotLight.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psSpotLight.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psTexture.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psTexture.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psTime.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psTime.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psTransform.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psTransform.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psUtil.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/base/engine/psVertex.java" afterPath="$PROJECT_DIR$/src/com/base/engine/psVertex.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/models/swarm_infector/swarminfector.obj" afterPath="$PROJECT_DIR$/resources/models/swarm_infector/swarminfector.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/models/teaPot.obj" afterPath="$PROJECT_DIR$/resources/models/teaPot.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/models/teddyBear.obj" afterPath="$PROJECT_DIR$/resources/models/teddyBear.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="PinStripes.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PinStripes" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Game.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/base/DoomGame/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="884">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Level.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/base/DoomGame/Level.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7127329" vertical-offset="765" max-vertical-offset="3893">
+              <caret line="73" column="5" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Door.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/base/DoomGame/Door.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1156">
+              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/base/DoomGame/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="1547">
+              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="psInput.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/base/engine/psInput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="1428">
+              <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="psCamera.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/base/engine/psCamera.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="2023">
+              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/base/engine/Quaternion.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/RenderUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/Time.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psTime.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psTransform.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psQuaternion.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/Vector3f.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psTextures.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/BasicShader.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/PhongShader.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psVertex.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psBaseLight.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/DirectionalLight.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psRenderUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/Attenuation.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psAttenuation.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psMaterial.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psPointLight.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psSpotLight.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psDirectionalLight.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psBasicShader.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psPhongShader.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psResourceLoader.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psMesh.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psShader.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/Game.java" />
+        <option value="$PROJECT_DIR$/src/com/base/DoomClone/engine/MainComponent.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/MainComponent.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/Matrix4f.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psCamera.java" />
+        <option value="$PROJECT_DIR$/src/com/base/DoomGame/Bitmap.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psTexture.java" />
+        <option value="$PROJECT_DIR$/src/com/base/engine/psInput.java" />
+        <option value="$PROJECT_DIR$/src/com/base/DoomGame/Game.java" />
+        <option value="$PROJECT_DIR$/src/com/base/DoomGame/Door.java" />
+        <option value="$PROJECT_DIR$/src/com/base/DoomGame/Player.java" />
+        <option value="$PROJECT_DIR$/src/com/base/DoomGame/Level.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="960" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\cygwin\home\Admin\projects\PinStripes\src\com\base\DoomClone" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainComponent">
+    <configuration default="false" name="MainComponent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.base.engine.MainComponent" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=C:\cygwin\home\Admin\projects\PinStripes\lib" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PinStripes" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GriffonRunConfigurationType" factoryName="Griffon">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="true" />
+      <setting name="passParentEnv" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.MainComponent" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.MainComponent" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe66cb30-600a-4b9e-a4bc-2cf200827712" name="Default" comment="" />
+      <created>1395415087093</created>
+      <updated>1395415087093</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="960" height="1038" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39832285" sideWeight="0.7657563" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2707889" sideWeight="0.3487395" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.271855" sideWeight="0.6512605" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1609808" sideWeight="0.4989496" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23480085" sideWeight="0.49789914" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="175" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psCamera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="2023">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psCamera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="1717">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/Matrix4f.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1564" max-vertical-offset="2040">
+          <caret line="92" column="57" selection-start-line="92" selection-start-column="57" selection-end-line="92" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psCamera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="986" max-vertical-offset="1989">
+          <caret line="58" column="57" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psTexture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="425">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1751">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/Matrix4f.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1411" max-vertical-offset="2040">
+          <caret line="83" column="79" selection-start-line="83" selection-start-column="79" selection-end-line="83" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/MainComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="1479">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psQuaternion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="1309">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psCamera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1717">
+          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/Vector3f.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1632">
+          <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1751">
+          <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/Matrix4f.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1496" max-vertical-offset="2006">
+          <caret line="88" column="34" selection-start-line="88" selection-start-column="34" selection-end-line="88" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psQuaternion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1207">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psCamera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1989">
+          <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/Vector3f.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="1547">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1207">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/MainComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1479">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psVertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="357">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psMesh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="646">
+          <caret line="28" column="65" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1037" max-vertical-offset="1275">
+          <caret line="61" column="55" selection-start-line="61" selection-start-column="55" selection-end-line="61" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59274757" vertical-offset="0" max-vertical-offset="717">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33285302" vertical-offset="1197" max-vertical-offset="8517">
+          <caret line="107" column="11" selection-start-line="107" selection-start-column="11" selection-end-line="107" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Relic/RelicGame/Assets/spine-unity/Assets/Spine/SkeletonAnimation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1462">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psQuaternion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0383523" vertical-offset="0" max-vertical-offset="969">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/Vector3f.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19151671" vertical-offset="4" max-vertical-offset="1088">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psBaseLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26714286" vertical-offset="0" max-vertical-offset="700">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36690646" vertical-offset="0" max-vertical-offset="1173">
+          <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psVertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6357341" vertical-offset="0" max-vertical-offset="722">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psRenderUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10873786" vertical-offset="114" max-vertical-offset="646">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psMaterial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41154563" vertical-offset="0" max-vertical-offset="867">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psPointLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32963988" vertical-offset="0" max-vertical-offset="722">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psDirectionalLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49445984" vertical-offset="0" max-vertical-offset="722">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psSpotLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32963988" vertical-offset="0" max-vertical-offset="722">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psAttenuation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21191135" vertical-offset="0" max-vertical-offset="722">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psPhongShader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47091413" vertical-offset="51" max-vertical-offset="2499">
+          <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psBasicShader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23545706" vertical-offset="0" max-vertical-offset="722">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psMesh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.160221" vertical-offset="1078" max-vertical-offset="2312">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psShader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11724138" vertical-offset="0" max-vertical-offset="1853">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/Matrix4f.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="954" max-vertical-offset="1870">
+          <caret line="92" column="57" selection-start-line="92" selection-start-column="57" selection-end-line="92" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/DoomGame/Bitmap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="969">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psTexture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0026075619" vertical-offset="610" max-vertical-offset="1377">
+          <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/MainComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1479">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="372" max-vertical-offset="1139">
+          <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/engine/psCamera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1751">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/DoomGame/Door.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/DoomGame/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1513">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/DoomGame/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/DoomGame/Level.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7127329" vertical-offset="765" max-vertical-offset="3893">
+          <caret line="73" column="5" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PinStripes</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lwjgl</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
