@@ -9,7 +9,7 @@ public class MainComponent {
 	private boolean            isRunning;
 	private Game game;
 	public MainComponent( ){
-        System.out.println( psUtil.GetOpenGLVersion() );
+        System.out.println( "OpenGL Version: " + psUtil.GetOpenGLVersion() );
 		psRenderUtil.InitGraphics( );
 		isRunning = false;
 		game = new Game( );

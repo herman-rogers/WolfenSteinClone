@@ -12,8 +12,9 @@ public class psBasicShader extends psShader {
 
     private psBasicShader( ){
         super( );
-        addVertexShaderFromFile( "basicVertex.vshader" );
-        addFragmentShaderFromFile( "basicFragment.fshader" );
+        //TODO:Mac OSX
+        addVertexShaderFromFile( "macVertex.vert" );
+        addFragmentShaderFromFile( "macFragment.frag" );
         compileShader( );
         addUniformVariable( "transform" );
         addUniformVariable( "color" );

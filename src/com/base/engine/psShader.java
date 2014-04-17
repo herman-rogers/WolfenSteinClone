@@ -108,7 +108,11 @@ public class psShader {
     }
 
     private void ShaderErrorLog( int checkValue, int errorValue, String errorMessage ){
-        if( checkValue == errorValue ) {
+        //TODO: MacOS X
+        if( errorMessage.contains( "No vertex array object bound" ) ){
+            System.out.println("Warning: " + errorMessage);
+        }
+        else if( checkValue == errorValue ) {
             System.err.println( "Oh NOO! " + errorMessage );
             new Exception( ).printStackTrace( );
             System.exit( 1 );

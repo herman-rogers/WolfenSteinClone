@@ -11,6 +11,7 @@ import static org.lwjgl.opengl.GL20.*;
 public class psMesh {
 	private int vbo;
     private int ibo;
+    private int vao;
 	private int size;
 
     public psMesh( String fileName ){
@@ -30,6 +31,7 @@ public class psMesh {
     private void InitMeshData(){
         vbo  = glGenBuffers( );
         ibo = glGenBuffers( );
+        vao = glGenBuffers();
         size = 0;
     }
 
@@ -42,6 +44,7 @@ public class psMesh {
 		glBufferData( GL_ARRAY_BUFFER, psUtil.CreateFlippedBuffer( vertices ), GL_STATIC_DRAW );
         glBindBuffer( GL_ELEMENT_ARRAY_BUFFER, ibo );
         glBufferData( GL_ELEMENT_ARRAY_BUFFER, psUtil.CreateFlippedBuffer(indices), GL_STATIC_DRAW );
+        glBindBuffer(GL_ARRAY_BUFFER, vao)
 	}
 
     private void CalculateNormals( psVertex[] vertices, int[] indices ){

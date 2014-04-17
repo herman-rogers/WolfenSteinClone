@@ -16,8 +16,6 @@ public class Game {
     public Game( ) {
         level = new Level( "levelOne.png", "WolfensteinSpriteSheet.png" );
         player = new Player( new Vector3f( 4, 0.5f, 5 ) );
-
-
 //        psPhongShader.SetPointLight(new psPointLight[]{testPointLightOne, testPointLightTwo});
     }
 

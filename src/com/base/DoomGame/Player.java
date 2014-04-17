@@ -1,6 +1,6 @@
 package com.base.DoomGame;
 import com.base.engine.*;
-import javafx.scene.Camera;
+//import javafx.scene.Camera;
 import org.lwjgl.input.Keyboard;
 
 /**
